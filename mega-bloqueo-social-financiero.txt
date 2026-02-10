@@ -1,0 +1,113 @@
+# LISTA COMPLETA PI-HOLE: Redes Sociales + Bancos + Apuestas + Viajes
+# Colombia e Internacional - Febrero 2026 [web:48][web:52][web:63][web:68]
+
+# ===== REDES SOCIALES PRINCIPALES =====
+0.0.0.0 facebook.com
+0.0.0.0 instagram.com
+0.0.0.0 whatsapp.com
+0.0.0.0 tiktok.com
+0.0.0.0 twitter.com
+0.0.0.0 x.com
+0.0.0.0 linkedin.com
+0.0.0.0 youtube.com
+0.0.0.0 pinterest.com
+0.0.0.0 snapchat.com
+0.0.0.0 telegram.org
+0.0.0.0 reddit.com
+0.0.0.0 discord.com
+0.0.0.0 threads.net
+0.0.0.0 bluesky.social
+0.0.0.0 twitch.tv
+
+# ===== BANCOS COLOMBIA (Superfinanciera) =====
+0.0.0.0 bancolombia.com
+0.0.0.0 banbogota.com
+0.0.0.0 bancooccidente.com.co
+0.0.0.0 davivienda.com
+0.0.0.0 bbva.com.co
+0.0.0.0 banistmo.com.co
+0.0.0.0 bancofalabella.com.co
+0.0.0.0 nequi.com.co
+0.0.0.0 lulobank.com
+
+# ===== CASAS DE APUESTAS COLOMBIA + INTERNACIONALES =====
+0.0.0.0 wplay.co
+0.0.0.0 betplay.com.co
+0.0.0.0 bet365.com
+0.0.0.0 1xbet.com
+0.0.0.0 bet365.com
+0.0.0.0 1xbet.com
+0.0.0.0 22bet.com
+0.0.0.0 melbet.com
+0.0.0.0 betwinner.com
+0.0.0.0 888sport.com
+0.0.0.0 tonybet.com
+0.0.0.0 paripesa.com
+0.0.0.0 megapari.com
+0.0.0.0 wplay.co
+0.0.0.0 betplay.com.co
+0.0.0.0 codere.com.co
+0.0.0.0 zamba.co
+0.0.0.0 rushbet.co
+0.0.0.0 stake.com
+0.0.0.0 bwin.co
+0.0.0.0 betsson.co
+0.0.0.0 fullreto.co
+0.0.0.0 yajuego.co
+0.0.0.0 luckia.co
+0.0.0.0 rivalo.co
+0.0.0.0 megapuesta.com.co
+0.0.0.0 sportium.com.co
+0.0.0.0 williamhill.co
+
+# ===== AGENCIAS DE VIAJES / OTAs =====
+0.0.0.0 booking.com
+0.0.0.0 expedia.com
+0.0.0.0 despegar.com.co
+0.0.0.0 airbnb.com
+0.0.0.0 aviatur.com
+0.0.0.0 aviatur.com
+0.0.0.0 viajesfalabella.com.co
+0.0.0.0 despegar.com.co
+0.0.0.0 viajesexito.com
+0.0.0.0 decameron.com
+0.0.0.0 colombiatours.travel
+0.0.0.0 colombiatraveloperator.com
+0.0.0.0 onvacation.com
+0.0.0.0 ecoandestravel.com
+0.0.0.0 aventurecolombia.com
+0.0.0.0 geotours.com.co
+0.0.0.0 livingcol.com
+0.0.0.0 travelrappi.com
+0.0.0.0 tourexperto.com
+0.0.0.0 depaseoporcolombia.com
+0.0.0.0 booking.com
+0.0.0.0 expedia.com
+0.0.0.0 agoda.com
+0.0.0.0 trip.com
+0.0.0.0 edreams.com
+0.0.0.0 kayak.com
+0.0.0.0 priceline.com
+0.0.0.0 hotels.com
+0.0.0.0 skyscanner.net
+0.0.0.0 airbnb.com
+0.0.0.0 vrbo.com
+0.0.0.0 hostelworld.com
+0.0.0.0 lastminute.com
+0.0.0.0 travelocity.com
+0.0.0.0 orbitz.com
+
+# ===== DOMINIOS SUBSIDIARIOS REDES SOCIALES =====
+0.0.0.0 fbcdn.net
+0.0.0.0 fb.com
+0.0.0.0 instagram.com
+0.0.0.0 cdninstagram.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 twitter.com
+0.0.0.0 twimg.com
+0.0.0.0 x.com
+0.0.0.0 linkedin.com
+0.0.0.0 lnkd.in
+0.0.0.0 ytimg.com
+
+# Total: 65+ dominios bloqueados - Lista optimizada
