@@ -1,0 +1,66 @@
+# Bloqueo WhatsApp y Redes Sociales para Pi-hole (formato hosts 0.0.0.0)
+# Generado el 2026-02-10
+# Fuentes: foros Pi-hole, GitHub y listas previas [web:8][web:9][cite:1]
+
+# WhatsApp
+0.0.0.0 whatsapp.com
+0.0.0.0 whatsapp.net
+0.0.0.0 web.whatsapp.com
+0.0.0.0 www.whatsapp.com
+0.0.0.0 g.whatsapp.net
+0.0.0.0 static.whatsapp.net
+0.0.0.0 mmg.whatsapp.net
+0.0.0.0 pps.whatsapp.net
+0.0.0.0 scontent.whatsapp.net
+0.0.0.0 media.s.whatsapp.net
+0.0.0.0 mmx-ds.cdn.whatsapp.net
+0.0.0.0 media-mxp1-1.cdn.whatsapp.net
+0.0.0.0 faq.whatsapp.com
+
+# Facebook / Meta
+0.0.0.0 facebook.com
+0.0.0.0 fb.com
+0.0.0.0 fbsbx.com
+0.0.0.0 fbcdn.net
+0.0.0.0 facebook.net
+0.0.0.0 fbworkplace.com
+0.0.0.0 workplace.com
+0.0.0.0 instagram.com
+0.0.0.0 cdninstagram.com
+0.0.0.0 akamaihd.net
+0.0.0.0 edge-mqtt.facebook.com
+
+# Instagram (adicionales)
+0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 i.instagram.com
+0.0.0.0 graph.instagram.com
+
+# Twitter / X
+0.0.0.0 twitter.com
+0.0.0.0 x.com
+0.0.0.0 twimg.com
+0.0.0.0 abs.twimg.com
+0.0.0.0 pbs.twimg.com
+
+# TikTok
+0.0.0.0 tiktok.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 byteoversea.com
+
+# YouTube (social)
+0.0.0.0 youtube.com
+0.0.0.0 googlevideo.com
+0.0.0.0 ytimg.com
+0.0.0.0 youtube-nocookie.com
+
+# Otras redes
+0.0.0.0 snapchat.com
+0.0.0.0 linkedin.com
+0.0.0.0 pinterest.com
+0.0.0.0 reddit.com
+0.0.0.0 discord.com
+0.0.0.0 telegram.org
+0.0.0.0 twitch.tv
+0.0.0.0 threads.net
+0.0.0.0 bluesky.social
