@@ -18,6 +18,7 @@
 0.0.0.0 threads.net
 0.0.0.0 bluesky.social
 0.0.0.0 twitch.tv
+0.0.0.0 eimer.com 
 
 # ===== BANCOS COLOMBIA (Superfinanciera) =====
 0.0.0.0 bancolombia.com
